@@ -1,0 +1,2 @@
+- Install ArduinoHttpClient from manage libraries
+    - https://github.com/arduino-libraries/ArduinoHttpClient
